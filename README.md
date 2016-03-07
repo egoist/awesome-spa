@@ -16,6 +16,10 @@
 
 - [JsonWebToken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js
 
+## Validation
+
+- [joi](https://github.com/hapijs/joi) - Object schema validation
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
