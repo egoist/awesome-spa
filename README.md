@@ -8,6 +8,7 @@
 
 
 - [Authentication](#authentication)
+- [Validation](#validation)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
