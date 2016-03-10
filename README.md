@@ -7,11 +7,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [API server framework](#api-server-framework)
 - [Authentication](#authentication)
 - [Validation](#validation)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## API server framework
+
+- [Express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js
+- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators
+- [hapi](https://github.com/hapijs/hapi) - Web and services application framework
 
 ## Authentication
 
